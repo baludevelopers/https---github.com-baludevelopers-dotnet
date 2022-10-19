@@ -1,0 +1,15 @@
+F:\MY LEARNING\dotnet\bin\Debug\net6.0\dotnet.exe
+F:\MY LEARNING\dotnet\bin\Debug\net6.0\dotnet.deps.json
+F:\MY LEARNING\dotnet\bin\Debug\net6.0\dotnet.runtimeconfig.json
+F:\MY LEARNING\dotnet\bin\Debug\net6.0\dotnet.dll
+F:\MY LEARNING\dotnet\bin\Debug\net6.0\dotnet.pdb
+F:\MY LEARNING\dotnet\obj\Debug\net6.0\dotnet.csproj.AssemblyReference.cache
+F:\MY LEARNING\dotnet\obj\Debug\net6.0\dotnet.GeneratedMSBuildEditorConfig.editorconfig
+F:\MY LEARNING\dotnet\obj\Debug\net6.0\dotnet.AssemblyInfoInputs.cache
+F:\MY LEARNING\dotnet\obj\Debug\net6.0\dotnet.AssemblyInfo.cs
+F:\MY LEARNING\dotnet\obj\Debug\net6.0\dotnet.csproj.CoreCompileInputs.cache
+F:\MY LEARNING\dotnet\obj\Debug\net6.0\dotnet.dll
+F:\MY LEARNING\dotnet\obj\Debug\net6.0\refint\dotnet.dll
+F:\MY LEARNING\dotnet\obj\Debug\net6.0\dotnet.pdb
+F:\MY LEARNING\dotnet\obj\Debug\net6.0\dotnet.genruntimeconfig.cache
+F:\MY LEARNING\dotnet\obj\Debug\net6.0\ref\dotnet.dll

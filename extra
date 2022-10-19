@@ -1,0 +1,10 @@
+varibles is c#:-
+    int - using without decimal values,
+    double - using with decimal values,
+    string - using for text,
+    bool - using for true or false,
+    char - using for to print the characters.
+
+
+Const - using const keyword that mean it is not changed.
+
